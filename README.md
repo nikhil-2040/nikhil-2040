@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">MERN Stack Developer | DSA Learner | Problem Solver</h3>
+<h3 align="center">CSE Student | Learning MERN & DSA | Consistently Building, Solving & Improving 🚀</h3>
 
 ---
 
