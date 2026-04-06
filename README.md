@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">CSE Student | Learning MERN & DSA | Consistently Building, Solving & Improving 🚀</h3>
+<h3 align="center">CSE Student | Consistently Building, Solving & Improving 🚀</h3>
 
 ---
 
@@ -32,8 +32,6 @@
 I am a passionate **Computer Science student at SBBSU**, currently focused on becoming a skilled full-stack developer.
 
 I have a strong interest in building real-world solutions using the **MERN Stack** (MongoDB, Express, React, Node.js), and I love turning ideas into working products.
-
-Alongside development, I’m actively learning **Data Structures and Algorithms (DSA)** to sharpen my problem-solving abilities and coding logic.
 
 I'm constantly working on meaningful projects that solve real problems and enhance user experience.  
 
